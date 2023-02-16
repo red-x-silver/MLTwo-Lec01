@@ -1,3 +1,3 @@
 # 2023MLTwo-Lec01
-slides: \n
+slides:
 https://careful-loving-pyrite.glitch.me/
