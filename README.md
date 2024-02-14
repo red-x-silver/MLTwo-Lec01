@@ -1,5 +1,5 @@
-# 2023MLTwo-Lec01
+# MLTwo-Lec01
 
-image classification (what fruits??) and python basics 101
+Fruit image classification (what fruits??)
 
-[slides](https://careful-loving-pyrite.glitch.me/)
+[slides](https://apple-ml-two-01.glitch.me/)
